@@ -1,0 +1,363 @@
+[
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app",
+        {
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558461561534,
+            "changeTime": 1558461561534,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558461561535,
+            "changeTime": 1558461561535,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898923,
+            "changeTime": 1558521898923,
+            "contentHash": "1ac95324ce0f74f2726d3242841d0c1a75b55bdc"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558461561536,
+            "changeTime": 1558461561536,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558461829746,
+            "changeTime": 1558461829746,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB",
+        {
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1558517851810,
+            "changeTime": 1558517851810,
+            "contentHash": "5abb21779a2c63b4846f4a77f17d231f9801a119",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2106,
+            "modifiedTime": 1558521898885,
+            "changeTime": 1558521898885,
+            "contentHash": "e24118b7d10db2deaf0537205494f756b49756cb"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1558521898889,
+            "changeTime": 1558521898889,
+            "contentHash": "8f3d30a94f607cdca19fc6e305e4152720235194"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1558521898891,
+            "changeTime": 1558521898891,
+            "contentHash": "68375be4a4cd979f1f6947cdac5b689dbe0671aa"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1558521898895,
+            "changeTime": 1558521898895,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1558521898905,
+            "changeTime": 1558521898905,
+            "contentHash": "2fe41f793cfd13b8b003d4965df7f44064d31e90"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\flexipages\\Demo_Fruit_App_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\flexipages\\Demo_Fruit_App_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 509,
+            "modifiedTime": 1558521898910,
+            "changeTime": 1558521898910,
+            "contentHash": "9f6b1ba5824ec51305de49c89dde365e54186739"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1558521898914,
+            "changeTime": 1558521898914,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\applications\\Demo_Fruit_App.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\applications\\Demo_Fruit_App.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 610,
+            "modifiedTime": 1558521898920,
+            "changeTime": 1558521898920,
+            "contentHash": "0094573b679ab356cbefce304ee419132a6bd2f9"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5488,
+            "modifiedTime": 1558521898927,
+            "changeTime": 1558521898927,
+            "contentHash": "55f030cafa237279249e32cf5c2e4942fc9bf406"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19623,
+            "modifiedTime": 1558521898941,
+            "changeTime": 1558521898941,
+            "contentHash": "80e0d3393b4791ab39976255d0be1d9e0c5b8e9a"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5150,
+            "modifiedTime": 1558521898946,
+            "changeTime": 1558521898946,
+            "contentHash": "bb8186a49b50ea7d14ab68ec338be7518dc55075"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5150,
+            "modifiedTime": 1558521898951,
+            "changeTime": 1558521898951,
+            "contentHash": "bb8186a49b50ea7d14ab68ec338be7518dc55075"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898891,
+            "changeTime": 1558521898891,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898879,
+            "changeTime": 1558521898879,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898890,
+            "changeTime": 1558521898890,
+            "contentHash": "c95081950d0fe51e04c9de2a6d0e99326f166048"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898894,
+            "changeTime": 1558521898894,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898904,
+            "changeTime": 1558521898904,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898909,
+            "changeTime": 1558521898909,
+            "contentHash": "4457bd790f1a9370ed8fa00791bb3d2cfaf18f5f"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898914,
+            "changeTime": 1558521898914,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898919,
+            "changeTime": 1558521898919,
+            "contentHash": "86aba8badd63ee3915a6bea05552386c7cdb9e1a"
+        }
+    ],
+    [
+        "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\jkumar\\Documents\\tst\\demoB\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1558521898950,
+            "changeTime": 1558521898950,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
